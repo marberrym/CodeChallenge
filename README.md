@@ -23,5 +23,7 @@ I chose to design my code challenge showing a little bit of extra personality.  
 - React
 - React-router-dom
 - React-scripts
+- Redux
+- React-redux
 
 # Happy Coding.
